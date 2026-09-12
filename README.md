@@ -46,3 +46,4 @@ Om Umredkar
 
 ## License
 MIT License
+<img width="1220" height="1511" alt="WhatsApp Image 2026-09-12 at 12 28 17 PM" src="https://github.com/user-attachments/assets/329569c6-3d24-46b4-abf0-9915ebd6562c" />
