@@ -1,0 +1,17 @@
+[Water Sample]
+       |
+       v
+[Sample Chamber]
+       |
+       v
+[Detection Sensor]
+       |
+       v
+[Signal Conditioning]
+       |
+       v
+[Microcontroller]
+       |
+       +----> [Display]
+       |
+       +----> [Data Logging / PC]
